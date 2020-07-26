@@ -30,7 +30,7 @@ class CompoundInterest
 		System.out.println("Compound Interest:"+amount*(Math.pow((1 + rate / 100), time)));
 	}
 }
-public class Compound
+public class Interest
 {
 	static
 	{

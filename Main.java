@@ -23,8 +23,8 @@ public class Main
     Scanner s=new Scanner(System.in);
     int i=s.nextInt();
     String n=s.next();
-    Home h=new Home();
-    h.price(n,i);
+    Home ob=new Home();
+    ob.price(n,i);
   }
 public static void main (String[] args) 
   {
